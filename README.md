@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-adnnovato90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adnnovato90@gmail.com)](mailto:adnnovato90@gmail.com)
 
 ## Quality Assurance
-Experiência na área de Qualidade, atuando em times ágeis com metodologias scrum/kanban
+Experiência na área de Qualidade, atuando em times ágeis com metodologias scrum/kanban, estudante em desenvolvimento JAVA!
 
 - :seedling:Elaboração de Cenários em BDD (Behavior Driven Development) 
 - :zap: Conhecimento de ferramentas para testes de APIs e Webservices como Swagger e Postman
