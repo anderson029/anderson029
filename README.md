@@ -1,4 +1,4 @@
-<h2 align="left">Olá hi! Meu nome é Anderson e sou Quality Assurance, sou de São Paulo.</h2>
+<h2 align="left">Olá 👋, Meu nome é Anderson e sou Quality Assurance, moro em São Paulo.</h2>
 
 Experiência na área de Qualidade, atuando em times ágeis com metodologias scrum/kanban, estudante em desenvolvimento JAVA!
 
@@ -49,3 +49,5 @@ Experiência na área de Qualidade, atuando em times ágeis com metodologias scr
 <br clear="both" />
 
 <img src="https://raw.githubusercontent.com/anderson029/anderson029/output/snake.svg" alt="Snake animation" />
+
+###
