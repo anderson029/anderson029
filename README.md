@@ -16,7 +16,7 @@ Experiência na área de Qualidade, atuando em times ágeis com metodologias scr
 
 ###
 
-div align="left">
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -39,14 +39,13 @@ div align="left">
 ###
 
 <div align="left">
-<a href="https://www.linkedin.com/in/anderson-ferreira30/"><img src="https://img.shields.io/badge/-andersonoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" /></a>
+<a href="https://www.linkedin.com/in/anderson-ferreira30/"><img src="https://img.shields.io/badge/-andersonoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
 <a href="mailto:adnnovato90@gmail.com"><img src="https://img.shields.io/badge/-adnnovato90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" /></a>
-<a href="https://discord.gg/anderson_oliveira"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" /></a>
 </div>
 
 ###
-
+<div>
 <br clear="both" />
-<img src="https://raw.githubusercontent.com/anderson029/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anderson029/anderson029/output/snake.svg" alt="Snake animation" />
 
 
