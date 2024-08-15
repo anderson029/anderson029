@@ -1,11 +1,47 @@
-# Anderson Ferreira de Oliveira
+<h2 align="left">Olá 👋! Meu nome é Anderson tenho experiência na área de Qualidade, atuando em times ágeis com metodologias scrum/kanban, e estudante em desenvolvimento na linguagem java.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 [![Linkedin Badge](https://img.shields.io/badge/-andersonoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-ferreira30/)](https://www.linkedin.com/in/anderson-ferreira30/)
 [![Gmail Badge](https://img.shields.io/badge/-adnnovato90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adnnovato90@gmail.com)](mailto:adnnovato90@gmail.com)
 
-## Quality Assurance
-Experiência na área de Qualidade, atuando em times ágeis com metodologias scrum/kanban, estudante em desenvolvimento JAVA!
-
-- :seedling:Elaboração de Cenários em BDD (Behavior Driven Development) 
-- :zap: Conhecimento de ferramentas para testes de APIs e Webservices como Swagger e Postman
-- :books: Automação de testes com Ruby, Cucumber e Capybara (baseado Selenium-Webdriver);
-- :books: Sistemas de Informação - UNIVERSIDADE BRASIL, 02/2019 - 12/2022.
+###
