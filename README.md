@@ -16,7 +16,7 @@ Experiência na área de Qualidade, atuando em times ágeis com metodologias scr
 
 ###
 
-<div align="left">
+div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -50,4 +50,4 @@ Experiência na área de Qualidade, atuando em times ágeis com metodologias scr
 
 <img src="https://raw.githubusercontent.com/anderson029/anderson029/output/snake.svg" alt="Snake animation" />
 
-###
+
