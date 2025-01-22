@@ -6,6 +6,8 @@ Experiência na área de Qualidade, atuando em times ágeis com metodologias scr
 - :zap: Conhecimento de ferramentas para testes de APIs e Webservices como Swagger e Postman
 - :books: Automação de testes com Ruby, Cucumber e Capybara (baseado Selenium-Webdriver);
 - :books: Sistemas de Informação - UNIVERSIDADE BRASIL, 02/2019 - 12/2022.
+- :books: Automação com Cypress.
+- :books: Automação com Appium/RobotFramework.
 
 ###
 
