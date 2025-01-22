@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋, Meu nome é Anderson e sou Quality Assurance, moro em São Paulo.</h2>
 
-Experiência na área de Qualidade, atuando em times ágeis com metodologias scrum/kanban, estudante em desenvolvimento JAVA!
+Experiência na área de Qualidade, atuando em times ágeis com metodologias scrum/kanban.
 
 - :seedling:Elaboração de Cenários em BDD (Behavior Driven Development) 
 - :zap: Conhecimento de ferramentas para testes de APIs e Webservices como Swagger e Postman
