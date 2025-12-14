@@ -39,9 +39,7 @@ Experiência na área de Qualidade, atuando em times ágeis com metodologias scr
 </div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-plain.svg" height="40" alt="cypress logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original.svg" height="40" alt="robot framework logo" />
-<img width="12" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-plain.svg" height="40" alt="robot framework logo" />
 ###
 
 <div align="left">
