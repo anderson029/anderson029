@@ -37,8 +37,6 @@ Experiência na área de Qualidade, atuando em times ágeis com metodologias scr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/robotframework/robotframework.svg" height="40" alt="robot framework logo" />
-<img width="12" />
 </div>
 ###
 
